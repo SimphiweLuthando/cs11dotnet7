@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/bin/Debug/net7.0/CalculatorLib.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/refint/CalculatorLib.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/CalculatorLib.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/Debug/net7.0/ref/CalculatorLib.dll

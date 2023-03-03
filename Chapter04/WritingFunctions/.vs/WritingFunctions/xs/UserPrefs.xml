@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B359700C-F4F4-4157-8F44-08AFBA279E81}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WritingFunctions/Program.Functions.cs">
+    <Files>
+      <File FileName="WritingFunctions/Program.cs" Line="7" Column="24" />
+      <File FileName="WritingFunctions/Program.Functions.cs" Line="128" Column="10" />
+      <File FileName="WritingFunctions/WritingFunctions.csproj" Line="12" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="WritingFunctions" expanded="True">
+            <Node name="WritingFunctions" expanded="True">
+              <Node name="Program.Functions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WritingFunctions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

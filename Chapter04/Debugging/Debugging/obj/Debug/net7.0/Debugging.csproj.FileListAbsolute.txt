@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/bin/Debug/net7.0/Debugging
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/bin/Debug/net7.0/Debugging.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/bin/Debug/net7.0/Debugging.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/bin/Debug/net7.0/Debugging.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/bin/Debug/net7.0/Debugging.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/refint/Debugging.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/Debugging.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/Debugging/Debugging/obj/Debug/net7.0/ref/Debugging.dll

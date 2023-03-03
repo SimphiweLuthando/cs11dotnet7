@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/bin/Debug/net7.0/Formatting
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/bin/Debug/net7.0/Formatting.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/bin/Debug/net7.0/Formatting.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/bin/Debug/net7.0/Formatting.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/bin/Debug/net7.0/Formatting.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/refint/Formatting.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/Formatting.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Formatting/Formatting/obj/Debug/net7.0/ref/Formatting.dll

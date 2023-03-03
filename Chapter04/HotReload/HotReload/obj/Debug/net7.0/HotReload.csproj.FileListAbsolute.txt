@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/bin/Debug/net7.0/HotReload
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/bin/Debug/net7.0/HotReload.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/bin/Debug/net7.0/HotReload.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/bin/Debug/net7.0/HotReload.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/bin/Debug/net7.0/HotReload.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/refint/HotReload.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/HotReload.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/HotReload/HotReload/obj/Debug/net7.0/ref/HotReload.dll

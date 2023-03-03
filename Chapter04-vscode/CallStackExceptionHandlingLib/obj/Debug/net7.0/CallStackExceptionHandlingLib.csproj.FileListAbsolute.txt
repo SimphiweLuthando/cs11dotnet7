@@ -1,0 +1,12 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/bin/Debug/net7.0/CallStackExceptionHandlingLib.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/bin/Debug/net7.0/CallStackExceptionHandlingLib.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/bin/Debug/net7.0/CallStackExceptionHandlingLib.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/refint/CallStackExceptionHandlingLib.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/CallStackExceptionHandlingLib.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CallStackExceptionHandlingLib/obj/Debug/net7.0/ref/CallStackExceptionHandlingLib.dll

@@ -1,0 +1,10 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter05-vscode/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb

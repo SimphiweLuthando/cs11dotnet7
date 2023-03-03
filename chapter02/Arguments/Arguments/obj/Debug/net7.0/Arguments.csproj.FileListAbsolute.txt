@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/bin/Debug/net7.0/Arguments
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/bin/Debug/net7.0/Arguments.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/bin/Debug/net7.0/Arguments.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/bin/Debug/net7.0/Arguments.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/bin/Debug/net7.0/Arguments.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/refint/Arguments.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/Arguments.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Arguments/Arguments/obj/Debug/net7.0/ref/Arguments.dll

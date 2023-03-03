@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/CalculatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/CalculatorLib.csproj",
+        "projectName": "CalculatorLib",
+        "projectPath": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/CalculatorLib.csproj",
+        "packagesPath": "/Users/simphiwembokazi/.nuget/packages/",
+        "outputPath": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/simphiwembokazi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj",
+        "projectName": "CalculatorLibUnitTests",
+        "projectPath": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj",
+        "packagesPath": "/Users/simphiwembokazi/.nuget/packages/",
+        "outputPath": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLibUnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/simphiwembokazi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/CalculatorLib.csproj": {
+                "projectPath": "/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04-vscode/CalculatorLib/CalculatorLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

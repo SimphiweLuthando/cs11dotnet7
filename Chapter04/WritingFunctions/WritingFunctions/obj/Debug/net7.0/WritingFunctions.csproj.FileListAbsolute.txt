@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/bin/Debug/net7.0/WritingFunctions
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/bin/Debug/net7.0/WritingFunctions.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/bin/Debug/net7.0/WritingFunctions.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/bin/Debug/net7.0/WritingFunctions.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/bin/Debug/net7.0/WritingFunctions.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/refint/WritingFunctions.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/WritingFunctions.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter04/WritingFunctions/WritingFunctions/obj/Debug/net7.0/ref/WritingFunctions.dll

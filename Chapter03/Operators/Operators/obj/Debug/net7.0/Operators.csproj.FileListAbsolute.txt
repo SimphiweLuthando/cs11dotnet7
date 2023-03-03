@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/bin/Debug/net7.0/Operators
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/bin/Debug/net7.0/Operators.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/bin/Debug/net7.0/Operators.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/bin/Debug/net7.0/Operators.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/bin/Debug/net7.0/Operators.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/refint/Operators.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/Operators.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/Chapter03/Operators/Operators/obj/Debug/net7.0/ref/Operators.dll

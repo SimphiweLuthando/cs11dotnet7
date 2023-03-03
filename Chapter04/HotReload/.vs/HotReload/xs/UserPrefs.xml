@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E1336C77-3051-4DD1-AAD9-2C5B4AC7647E}|Default">
+  <MonoDevelop.Ide.ItemProperties.HotReload PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HotReload/Program.cs">
+    <Files>
+      <File FileName="HotReload/Program.cs" Line="12" Column="1" />
+      <File FileName="HotReload/HotReload.csproj" Line="11" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="HotReload" expanded="True">
+            <Node name="HotReload" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

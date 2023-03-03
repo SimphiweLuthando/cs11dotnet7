@@ -1,0 +1,5 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Vocabulary/Vocabulary/obj/Debug/net7.0/Vocabulary.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Vocabulary/Vocabulary/obj/Debug/net7.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Vocabulary/Vocabulary/obj/Debug/net7.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Vocabulary/Vocabulary/obj/Debug/net7.0/Vocabulary.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/Vocabulary/Vocabulary/obj/Debug/net7.0/Vocabulary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/simphiwembokazi/Documents/cs11dotnet7/chapter02/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
